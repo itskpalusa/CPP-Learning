@@ -2,6 +2,7 @@
 
 int main()
 {
-	std::cout << "Hello, world!";
+	int number(7);
+	std::cout << number << "Hello, world!";
 	return 0;
 }
